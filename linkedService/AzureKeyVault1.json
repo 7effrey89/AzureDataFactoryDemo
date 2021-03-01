@@ -1,0 +1,11 @@
+{
+	"name": "AzureKeyVault1",
+	"properties": {
+		"description": "adfKoder",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://minKV.vault.azure.net/"
+		}
+	}
+}
