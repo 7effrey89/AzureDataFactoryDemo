@@ -4,7 +4,7 @@
 		"description": "gregre",
 		"activities": [
 			{
-				"name": "Copy_n04",
+				"name": "nytnavn",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
